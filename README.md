@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adiissep
 - 👀 I’m interested in Information Technology
 - 🌱 I'm self-taught and college
-- 💞️ I’m looking to collaborate on programming language 
 - 📫 How to reach me ... ?
   Contact e-mail:
   adisepriyadi0@gmail.com  or If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/adisepriyadi/) account.
