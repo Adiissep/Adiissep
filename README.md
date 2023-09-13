@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adiissep
+- **👋 Hi, I’m @Adiissep**
 - 👀 I’m interested in Information Technology
 - 🌱 I'm self-taught and college
 - 📫 How to reach me : adisepriyadi0@gmail.com  or If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/adisepriyadi/) account.
