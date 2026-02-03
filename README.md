@@ -19,13 +19,15 @@
 
 ## **💻 Skills**
 ### **Languages**
-- JavaScript (React, Node.js)
+- JavaScript (Node.js)
 - PHP Native or PHP (Laravel)
 - HTML, CSS, and SCSS
+- Kotlin
+- Flutter
 
 ### **Tools & Technologies**
 - Git & GitHub
-- MySQL
+- SQL
 - RESTful APIs
 - Laragon, Xampp (local server)
 - Ngrok
