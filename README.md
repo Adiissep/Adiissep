@@ -23,7 +23,7 @@
 - PHP Native or PHP (Laravel)
 - HTML, CSS, and SCSS
 - Kotlin
-- Flutter
+- Dart
 
 ### **Tools & Technologies**
 - Git & GitHub
@@ -39,6 +39,7 @@
 - Inertia.js
 - Tailwind CSS
 - Boostrap CSS
+- Flutter
 
 ---
 
